@@ -3,7 +3,7 @@ data_path="${DIRS}/data"
 train_files_path="${data_path}/train"
 test_files_path="${data_path}/test"
 
-model_files_path="${DIRS}/model"
+model_files_path="${DIRS}/model/infer_model"
 
 thirdparty_path="${DIRS}/thirdparty"
 tree_travel_init_path="${thirdparty_path}/travel_list.txt"
